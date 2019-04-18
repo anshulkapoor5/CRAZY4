@@ -1,9 +1,9 @@
 # Table of contents
-[Team Members] (#Team Members)
+[Team Members](#Team-Members)
   
-  [Avatar] (#Avatar)
+  [Avatar](#Avatar)
   
-[Meaning] (#Meaning)
+[Meaning](#Meaning)
   
 ## Team Members
    ### * Amritpal singh sidhu  1896564
