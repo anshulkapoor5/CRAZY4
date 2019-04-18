@@ -1,17 +1,17 @@
 # Table of contents
-[Team Members] (#team members)
+[Team Members] (#Team Members)
   
   [Avatar] (#Avatar)
   
-[Meaning] (#meaning)
+[Meaning] (#Meaning)
   
-## Legends Team
+## Team Members
    ### * Amritpal singh sidhu  1896564
    ### * Anshul Kapoor    1896225 
    ###  * Aditya Purani     1896493
    ### * Khushkeerat       1896533
    
-  ### Avatar
+  ## Avatar
 ### * ![download](https://user-images.githubusercontent.com/49278124/56368115-c77f3e00-61c4-11e9-8a0f-54542563ee6d.jpg)
 
 ### * ![lion-conservators-center](https://user-images.githubusercontent.com/49278124/56368290-1fb64000-61c5-11e9-9389-b661519f772d.jpg)
