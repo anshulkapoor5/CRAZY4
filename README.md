@@ -3,11 +3,11 @@
  ### Table of content
   
   
-  * Team 
+  ## * Team 
   
-  * Avtar
+  ## * Avtar
   
-  * Meaning
+  ## * Meaning
   
 
    #### Amritpal singh sidhu  1896564
