@@ -13,7 +13,7 @@
    #### Amritpal singh sidhu  1896564
    #### Anshul Kapoor    1896225 
    #### Aditya Purani     1896493
-   #### Khushkeerat      
+   #### Khushkeerat       1896533
    
   * Avtar
   
@@ -28,3 +28,9 @@
 
 ![19437535_10154869044788931_4755399083724169206_n-671](https://user-images.githubusercontent.com/49278124/56368427-67d56280-61c5-11e9-8b30-cfe2241a15d3.jpg)
 
+* Meaning
+ ### 1896564 Honesty is the Best policy
+ ### 1896225 Soaring high is my nature
+ ### 1896493 Music is life
+ ### 1896533 Love nature
+ 
