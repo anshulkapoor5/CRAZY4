@@ -23,6 +23,6 @@
 ## Meaning
  #### * 1896564 Honesty is the Best policy
  #### * 1896225 Soaring high is my nature
- #### * 1896493 Music is life
+ #### * 1896493 Music and singing is life
  #### * 1896533 Love nature
  
